@@ -1,3 +1,21 @@
+# Playing Card Frontend
+
+This is the frontend to the playing card program. To find the API for the project, click on the following link: . Be sure to run the API prior to running the frontend.
+
+
+We are assuming that you already have Node and npm or yarn installed. To get this program up and running, please follow the below steps:
+
+* Clone this repo to your computer.
+
+* Open Terminal and navigate to the program's main directory folder.
+
+* If you use npm, then type 'npm start' to start up the program. If you use yarn, then type 'yarn start' to start up the program. If you are already running the API, Terminal will ask you if you want to run the program on another port (the default is 3000). Type 'Y', and the program should open.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
