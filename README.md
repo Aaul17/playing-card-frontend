@@ -1,6 +1,6 @@
 # Playing Card Frontend
 
-This is the frontend to the playing card program. To find the API for the project, click on the following link: . Be sure to run the API prior to running the frontend.
+This is the frontend to the playing card program. To find the API for the project, click on the following link: https://github.com/Aaul17/playing-card-api. Be sure to run the API prior to running the frontend.
 
 
 We are assuming that you already have Node and npm or yarn installed. To get this program up and running, please follow the below steps:
