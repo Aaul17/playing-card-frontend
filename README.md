@@ -9,9 +9,7 @@ We are assuming that you already have Node and npm or yarn installed. To get thi
 
 * Open Terminal and navigate to the program's main directory folder.
 
-* If you use npm, then type 'npm start' to start up the program. If you use yarn, then type 'yarn start' to start up the program. If you are already running the API, Terminal will ask you if you want to run the program on another port (the default is 3000). Type 'Y', and the program should open.
-
-
+* Run 'npm install', and then when it is done installing, run 'npm start'. If you are already running the API, Terminal will ask you if you want to run the program on another port (the default is 3000). Type 'Y', and the program should open.
 
 
 
